@@ -15,7 +15,7 @@ In this ETL mini project, we work together to build ETL pipeline using Python, P
    * **CSV file for contacts regex based output:** [Resources/contacts_regex.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/contacts_regex.csv)
    * **ETL DDL file:** [Resources/ETL_DDl.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DDl.sql)
    * **ETL DML file:** [Resources/ETL_DML.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DML.sql)
-   * **ETL ERD diagram:** [Resources/ETL_ERD.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_ERD.png)
+   * **ETL ERD diagram:** ![Resources/ETL_ERD.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_ERD.png)
 * **Code**
    * **Notebook file:** [ETL_Mini_Project_MPandey_PTripathi.ipynb](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/ETL_Mini_Project_MPandey_PTripathi.ipynb)
  
