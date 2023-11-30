@@ -18,7 +18,7 @@ In this ETL mini project, we work together to build ETL pipeline using Python, P
    * **ETL DDL file:** [Resources/ETL_DDl.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DDl.sql)
    * **ETL DML file:** [Resources/ETL_DML.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DML.sql)
    * **Images for Select all statements:** [Images](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Images)
-   * **ETL ERD diagram:** [Resources/ETL_ERD.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Images/ETL_ERD.png)
+   * **ETL ERD diagram:** ![Images/ETL_ERD.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Images/ETL_ERD.png)
  
 ## Learnings
 * Extracting data from Excel, cleaning it, transforming it and finally push it to CSV.
