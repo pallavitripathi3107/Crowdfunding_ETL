@@ -15,8 +15,8 @@ In this ETL mini project, we work together to build ETL pipeline using Python, P
    * **CSV file for campaign output:** [Resources/campaign.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
    * **CSV file for contacts python dictionary based output:** [Resources/contacts.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/contacts.csv)
    * **CSV file for contacts regex based output:** [Resources/contacts_regex.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/contacts_regex.csv)
-   * **ETL DDL file:** [Resources/ETL_DDl.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DDl.sql)
-   * **ETL DML file:** [Resources/ETL_DML.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DML.sql)
+   * **ETL DDL (Data Definition Language) file:** [Resources/ETL_DDl.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DDl.sql)
+   * **ETL DML (Data Manipulation Language) file:** [Resources/ETL_DML.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DML.sql)
    * **Images for Select all statements:**
      * [Images/campaign_table.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Images/campaign_table.png)
      * [Images/category_table.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Images/category_table.png)
