@@ -7,6 +7,8 @@
 In this ETL mini project, we work together to build ETL pipeline using Python, Pandas, Python dictionary methods and regular expressions to extract and transform the data. After transforming data, we uploaded the data into 5 CSV files and created an ERD and a table schema. Finally, we have uploaded the CSV file data into a Postgres database.
 
 ## Files
+* **Code**
+   * **Notebook file:** [ETL_Mini_Project_MPandey_PTripathi.ipynb](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/ETL_Mini_Project_MPandey_PTripathi.ipynb)
 * **Resources**:
    * **CSV file for contacts output:** [Resources/category.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/category.csv)
    * **CSV file for contacts output:** [Resources/subcategory.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
@@ -16,7 +18,9 @@ In this ETL mini project, we work together to build ETL pipeline using Python, P
    * **ETL DDL file:** [Resources/ETL_DDl.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DDl.sql)
    * **ETL DML file:** [Resources/ETL_DML.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DML.sql)
    * **ETL ERD diagram:** ![Resources/ETL_ERD.png](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_ERD.png)
-* **Code**
-   * **Notebook file:** [ETL_Mini_Project_MPandey_PTripathi.ipynb](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/ETL_Mini_Project_MPandey_PTripathi.ipynb)
+ 
+## Learnings
+* Extracting data from Excel, cleaning it, transforming it and finally push it to CSV.
+* Use CSV data to port data to Postgres DB.
  
   
