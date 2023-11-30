@@ -10,9 +10,9 @@ In this ETL mini project, we work together to build ETL pipeline using Python, P
 * **Code**
    * **Notebook file:** [ETL_Mini_Project_MPandey_PTripathi.ipynb](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/ETL_Mini_Project_MPandey_PTripathi.ipynb)
 * **Resources**:
-   * **CSV file for contacts output:** [Resources/category.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/category.csv)
-   * **CSV file for contacts output:** [Resources/subcategory.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
-   * **CSV file for contacts output:** [Resources/campaign.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
+   * **CSV file for category output:** [Resources/category.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/category.csv)
+   * **CSV file for subcategor output:** [Resources/subcategory.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/subcategory.csv)
+   * **CSV file for campaign output:** [Resources/campaign.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/campaign.csv)
    * **CSV file for contacts python dictionary based output:** [Resources/contacts.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/contacts.csv)
    * **CSV file for contacts regex based output:** [Resources/contacts_regex.csv](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/contacts_regex.csv)
    * **ETL DDL file:** [Resources/ETL_DDl.sql](https://github.com/pallavitripathi3107/Crowdfunding_ETL/blob/main/Resources/ETL_DDl.sql)
